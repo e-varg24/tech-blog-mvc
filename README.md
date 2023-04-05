@@ -20,9 +20,14 @@ This hw asignment was a cms style tech blog. We had to follow the MVC paradigm s
 - npm start
 
 ## imgs
-![Screenshot (54)](https://user-images.git![Screenshot (58)](https://user-images.githubusercontent.com/116539782/230204630-317e3159-146f-473f-b02e-3434785b65dc.png)
-hubusercontent.com/116539782/230203771-0de134a4-efc2-4961-ad57-11409bf349c6.png)
 
+![Screenshot (55)](https://user-images.githubusercontent.com/116539782/230205033-d1325a48-bb74-4ef6-819d-a5f4c06b3c36.png)
+
+
+![Screenshot (57)](https://user-images.githubusercontent.com/116539782/230205198-ffe7d72e-fc60-47b4-8306-cafd4f8b2620.png)
+
+
+![Screenshot (58)](https://user-images.githubusercontent.com/116539782/230205258-00afb21d-7867-432f-bcdc-a3c949d4646e.png)
 
 ![Screenshot (56)](https://user-images.githubusercontent.com/116539782/230204734-bd6c5a57-4dea-4048-94ce-d59d124ab395.png)
 
