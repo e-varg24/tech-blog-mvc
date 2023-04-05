@@ -32,4 +32,4 @@ This hw asignment was a cms style tech blog. We had to follow the MVC paradigm s
 ![Screenshot (56)](https://user-images.githubusercontent.com/116539782/230204734-bd6c5a57-4dea-4048-94ce-d59d124ab395.png)
 
 ## heroku 
-https://frozen-ravine-92315.herokuapp.com/dashboard/2![Uploading Screenshot (54).png…]()
+https://frozen-ravine-92315.herokuapp.com/dashboard
